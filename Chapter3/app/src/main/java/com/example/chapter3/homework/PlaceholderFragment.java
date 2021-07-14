@@ -60,15 +60,11 @@ public class PlaceholderFragment extends Fragment {
                 // TODO ex3-4：实现动画，将 lottie 控件淡出，列表数据淡入
                 ObjectAnimator animator0 = ObjectAnimator.ofFloat(getView().findViewById(R.id.loading),"alpha",1f,0f);
                 animator0.setDuration(1000);
-                animator0.setRepeatCount(1);
-                animatorSet = new AnimatorSet();
-                animatorSet.playTogether(animator0);
-                animatorSet.start();
+
                 ObjectAnimator animator1 = ObjectAnimator.ofFloat(getView().findViewById(R.id.recycler_view),"alpha",0f,1f);
                 animator1.setDuration(2000);
-                animator1.setRepeatCount(1);
                 animatorSet = new AnimatorSet();
-                animatorSet.playTogether(animator1);
+                animatorSet.playTogether(animator0,animator1);
                 animatorSet.start();
             }
         }, 5000);
