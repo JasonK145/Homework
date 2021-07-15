@@ -153,7 +153,7 @@ public class ClockView extends View {
         // float endX = (float) (centerX + radius * HOUR_NEEDLE_LENGTH_RATIO * Math.cos(Math.toRadians(hourDegree)))
         float hourUnitDegree = UNIT_DEGREE * 5f;
         float hourDegree = (time.getHours()+ time.getMinutes()/60f)* hourUnitDegree - 90;
-        float minuteDegree = time.getMinutes()* UNIT_DEGREE - 90;
+        float minuteDegree = (time.getMinutes()+time.getSeconds()/60f)* UNIT_DEGREE - 90;
         float secondDegree = time.getSeconds()* UNIT_DEGREE - 90;
         needlePaint.setStrokeWidth(HOUR_NEEDLE_WIDTH);
         canvas.drawLine(
