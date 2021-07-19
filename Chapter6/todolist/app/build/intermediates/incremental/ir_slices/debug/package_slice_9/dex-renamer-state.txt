@@ -1,0 +1,4 @@
+#Mon Jul 19 18:38:49 CST 2021
+base.0=D\:\\cm_git\\android-campus-2021-master\\chapter-6\\Demo\\todolist\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
