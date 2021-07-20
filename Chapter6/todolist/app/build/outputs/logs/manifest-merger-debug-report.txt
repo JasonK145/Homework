@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\1f61e88a0c9072f3dc1975de2a047929\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\0dec9e20e33f54b57b49af88a7d3427f\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\78c90f454acc57b5981e45267ab876c8\AndroidManifest.xml:2:1-11:12
@@ -35,31 +35,31 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\USER\.gradle\cach
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\d1e8226fbdf3fbf5b51f2b5420c932e3\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\e5a4c1fdd3dce9ab78c90a77517a4ab7\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\a54bc0323a4f2324f794d5a2ba8ae6f9\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
 	package
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:4:5-38
-		INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
-		INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml
+		INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
-		INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
-		INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:6:5-81
+ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:6:5-81
 	android:name
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:6:22-78
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:6:22-78
 application
-ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:8:5-30:19
+ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:8:5-30:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\1f61e88a0c9072f3dc1975de2a047929\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\1f61e88a0c9072f3dc1975de2a047929\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\78c90f454acc57b5981e45267ab876c8\AndroidManifest.xml:9:5-20
@@ -71,57 +71,57 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\USER\.grad
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\3daf82234b40e8f1a103ccb9468abc5e\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:11:9-41
 	tools:ignore
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:15:9-48
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:15:9-48
 	android:roundIcon
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:14:9-40
 activity#com.byted.camp.todolist.MainActivity
-ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:16:9-25:20
+ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:16:9-25:20
 	android:label
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:18:13-45
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:18:13-45
 	android:theme
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:19:13-56
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:19:13-56
 	android:name
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:17:13-41
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:17:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:23:27-74
 activity#com.byted.camp.todolist.debug.DebugActivity
-ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:26:9-57
+ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:26:9-57
 	android:name
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:26:19-54
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:26:19-54
 activity#com.byted.camp.todolist.NoteActivity
-ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:27:9-50
+ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:27:9-50
 	android:name
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:27:19-47
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:27:19-47
 activity#com.byted.camp.todolist.debug.FileDemoActivity
-ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:28:9-60
+ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:28:9-60
 	android:name
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:28:19-57
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:28:19-57
 activity#com.byted.camp.todolist.debug.SpDemoActivity
-ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:29:9-58
+ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:29:9-58
 	android:name
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:29:19-55
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml:29:19-55
 uses-sdk
-INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
-INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml
+INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:design:28.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\1f61e88a0c9072f3dc1975de2a047929\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:28.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\1f61e88a0c9072f3dc1975de2a047929\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\0dec9e20e33f54b57b49af88a7d3427f\AndroidManifest.xml:20:5-44
@@ -184,13 +184,13 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\USER\.gradle\c
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\e5a4c1fdd3dce9ab78c90a77517a4ab7\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\a54bc0323a4f2324f794d5a2ba8ae6f9\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\USER\.gradle\caches\transforms-2\files-2.1\a54bc0323a4f2324f794d5a2ba8ae6f9\AndroidManifest.xml:20:5-44
-INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
-INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml
+INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
-		INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml
+		INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
-		ADDED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
-		INJECTED from D:\cm_git\android-campus-2021-master\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml
+		ADDED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml
+		INJECTED from D:\zjugib\Homework\Chapter6\todolist\app\src\main\AndroidManifest.xml
